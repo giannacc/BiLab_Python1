@@ -20,3 +20,7 @@ This is a course in Python
 ## Artists
 1. Shakira
 2. Bad Bunny
+
+## Schools
+1. Trilce
+2. Pamer
