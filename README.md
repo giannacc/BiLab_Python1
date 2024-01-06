@@ -9,3 +9,4 @@ This is a course in Python
 5. Andrea
 6. Camila
 7. Nicole
+8. Mica
