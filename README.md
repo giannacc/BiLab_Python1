@@ -24,3 +24,5 @@ This is a course in Python
 ## Schools
 1. Trilce
 2. Pamer
+3. Saco Oliveros
+4. Alejandro El Grande
