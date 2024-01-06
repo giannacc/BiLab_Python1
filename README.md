@@ -13,6 +13,6 @@ This is a course in Python
 
 ##Movie
 1. La la land
-2. 2. Napoleon
+2. Napoleon
 3. Wonka
 4. Marvel
