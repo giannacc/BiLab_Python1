@@ -16,3 +16,7 @@ This is a course in Python
 2. Napoleon
 3. Wonka
 4. Marvel
+
+## Artists
+1. Shakira
+2. Bad Bunny
