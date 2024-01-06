@@ -7,3 +7,5 @@ This is a course in Python
 3. Jorge
 4. Joel
 5. Andrea
+6. Camila
+
