@@ -11,7 +11,7 @@ This is a course in Python
 7. Nicole
 8. Mica
 
-##Movie
+## Movie
 1. La la land
 2. Napoleon
 3. Wonka
