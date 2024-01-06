@@ -8,4 +8,4 @@ This is a course in Python
 4. Joel
 5. Andrea
 6. Camila
-
+7. Nicole
